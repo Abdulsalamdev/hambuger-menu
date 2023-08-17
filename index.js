@@ -1,4 +1,4 @@
-const image = document.querySelector('.image');
+const image = document.querySelector('.image') ;
 const absolute = document.querySelector('.none');
 
 image.addEventListener('click', function () {

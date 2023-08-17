@@ -59,7 +59,7 @@ a:hover {
 #absolute {
   position: absolute;
   top: 30px;
-  left: -80px;
+  left: -64px;
   background-color: white;
   display: flex;
   flex-direction: column;
